@@ -1,10 +1,9 @@
-import React from "react";
-
+// components/pages/Settings.tsx
 export default function Settings() {
   return (
-    <div style={{ padding: "20px" }}>
-      <h1>Settings Page</h1>
-      <p>This is a placeholder Settings page.</p>
+    <div style={{ padding: 20 }}>
+      <h1>Settings</h1>
+      <p>Placeholder settings page.</p>
     </div>
   );
 }
