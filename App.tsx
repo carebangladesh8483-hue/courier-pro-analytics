@@ -6,7 +6,7 @@ import Dashboard from './components/pages/Dashboard';
 import Orders from './components/pages/Orders';
 import Employees from './components/pages/Employees';
 import Reports from './components/pages/Reports';
-import Settings from './components/pages/Settings';
+import Settings from './components/pages/settings';
 
 export type Page = 'Dashboard' | 'Orders' | 'Employees' | 'Reports' | 'Settings';
 
